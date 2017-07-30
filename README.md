@@ -1,9 +1,5 @@
 # Cryptocurrency-Bot
 Simple Discord Bot for cryptocurrencies
-## Installation
-Install the requirements from requirements.txt file with this command:
-```
-pip install -r requirements.txt
-```
-## Usage
-Replace 'token' at line 294 to your token and run the app.
+## Adding this bot to your server
+https://discordapp.com/oauth2/authorize?client_id=332953273931792394&scope=bot
+Go to this link, select your server and click OK.
