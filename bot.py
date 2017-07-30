@@ -291,4 +291,4 @@ async def on_message(message):
 	elif message.content.lower().startswith('!help'):
 		await client.send_message(message.channel, help_text)
 
-client.run('MzMyOTUzMjczOTMxNzkyMzk0.DEFnAA.vlVF4KN12-J7h7LQZVzYK7YFejg')
+client.run('token')
